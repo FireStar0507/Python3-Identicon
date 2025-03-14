@@ -1,4 +1,7 @@
 # Identicon Generator | 唯一性图标生成器
+*by [FireStar0507](github.com/FireStar0507)*
+
+**支持Python3.8+以上版本！**
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -102,7 +105,7 @@ Edit the `PATH_SET` in `DonRenderer` class to create new patterns.
 MIT License | MIT 许可证  
 Copyright (c) [FireStar0507]  
 For details, see [LICENSE](LICENSE).
-```
+
 
 ---
 
@@ -118,4 +121,4 @@ For details, see [LICENSE](LICENSE).
 
 **Enjoy generating your unique identicons!** 🎨  
 **尽情生成你的专属图标吧！** 🎨
-```
+
